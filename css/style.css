@@ -319,7 +319,7 @@ header {
 .header__logo .header-logo {
   width: 118px;
   height: 32px;
-  background-image: url(../images/logo.png);
+  background-image: url(../images/Logo.png);
   -webkit-transition-duration: 1s;
           transition-duration: 1s;
 }
